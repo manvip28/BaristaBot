@@ -1,6 +1,6 @@
 # ☕ BaristaBot – Cafe Ordering Assistant (LangGraph + Gemini)
 
-A conversational AI assistant built with **LangGraph**, **Gemini**, and **LangChain**, designed to take café orders directly in **Google Colab** using terminal-style input/output.
+A conversational AI assistant built with **LangGraph**, **Gemini**, and **LangChain**.
 
 ---
 
